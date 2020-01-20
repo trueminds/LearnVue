@@ -4,7 +4,7 @@ module.exports = {
   title: "Cracking Full Stack",
   dest: "./public",
   themeConfig: {
-    repo: "https://wwww.github.com",
+    repo: "https://github.com/trueminds/LearnVue.git",
     repoLabel: "Repo",
     editLinks: true,
     editLinkText: "Found a bug? Help me improve this page!",
