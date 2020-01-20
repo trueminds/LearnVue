@@ -13,7 +13,9 @@ module.exports = {
       { text: "About", link: "/about/" },
       { text: "Blog", link: "/blog/" },
       { text: "Archive", link: "/archive/" },
-      { text: "RSS Feed", link: "/rss.xml" }
+      { text: "RSS Feed", link: "/rss.xml" },
+      { text: "Guide", link: "/guide/" },
+      { text: "External", link: "https://google.com" }
     ],
     logo: "/vuepress-blog-logo1.png",
     docsDir: "src",
@@ -24,7 +26,7 @@ module.exports = {
     [
       "@vuepress/google-analytics",
       {
-        ga: "" // UA-00000000-0
+        ga: "UA-35040761-1" // UA-00000000-0
       }
     ],
     [
