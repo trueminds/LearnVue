@@ -1,15 +1,20 @@
 ---
 title: My First Post
-date: 2018-12-23 20:47:18
-excerpt: Here is a little bit about my post.
+date: 2018-12-28 17:22:00
 type: post
 blog: true
+excerpt: I'm creating my first post!
 tags:
-    - HTML
-    - CSS
-    - JavaScript
+  - Blogging
+  - Tutorials
 ---
 
-## Hello Dr. Zoidberg
+# Hello!
 
-Dr. Zoidberg, that doesn't make sense. But, okay! No! The kind with looting and maybe starting a few fires! Well, then good news! It's a suppository. Hey, guess what you're accessories to. Hey, guess what you're accessories to.
+This is pretty awesome!
+
+::: tip
+Aren't custom containers cool?
+:::
+
+> "I have a big head... and little arms." - T-rex from 'Meet the Robinsons'
