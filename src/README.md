@@ -1,17 +1,17 @@
 ---
 title: Home
 home: true
-heroText: Hero
-tagline: Some tagline
-actionText: Go To Github
+heroText: Postr.io
+tagline: Simply Post your R and share your P.
+actionText: Post Your Potential Now
 actionLink: https://github.com/bencodezen/vuepress-blog-boilerplate
 features:
   - title: Feature 1
-    details: Feature Details
+    details: Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P
   - title: Feature 2
-    details: Feature Details
+    details: Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P
   - title: Feature 3
-    details: Feature Details
+    details: Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P.Simply Post your R and share your P
 
 footer: This is a footer
 ---
